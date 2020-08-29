@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1553368966 source:f:\imovel\endereco.cpp
+	"Endereco.h"
+
+1553367754 f:\imovel\endereco.h
+	<string>
+
+1553104248 source:f:\imovel\gerentedepersistencia.cpp
+	"GerenteDePersistencia.h"
+
+1553104824 f:\imovel\gerentedepersistencia.h
+	"SistemaImobiliaria.h"
+
+1553104824 f:\imovel\sistemaimobiliaria.h
+	"IMOVEL.H"
+
+1553370922 f:\imovel\imovel.h
+	"ENDERECO.H"
+
+1514140574 source:f:\imovel\main.cpp
+	<iostream>
+
+1553368966 source:f:\imovel\imovel.cpp
+	"Imovel.h"
+
+1553104198 source:f:\imovel\sistemaimobiliaria.cpp
+	"SistemaImobiliaria.h"
+
+1553104824 source:f:\imovel\terreno.cpp
+	"Terreno.h"
+
+1553104824 f:\imovel\terreno.h
+	"IMOVEL.H"
+
+1553368966 source:c:\users\thiag\desktop\imovel\endereco.cpp
+	"Endereco.h"
+
+1553383606 c:\users\thiag\desktop\imovel\endereco.h
+	<string>
+
+1553104248 source:c:\users\thiag\desktop\imovel\gerentedepersistencia.cpp
+	"GerenteDePersistencia.h"
+
+1553104824 c:\users\thiag\desktop\imovel\gerentedepersistencia.h
+	"SistemaImobiliaria.h"
+
+1553538126 c:\users\thiag\desktop\imovel\sistemaimobiliaria.h
+	"IMOVEL.H"
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+	"Endereco.h"
+	<vector>
+	<algorithm>
+	<string>
+
+1553538179 c:\users\thiag\desktop\imovel\imovel.h
+	"ENDERECO.H"
+
+1553538196 source:c:\users\thiag\desktop\imovel\imovel.cpp
+	"Imovel.h"
+	<iostream>
+
+1553534386 source:c:\users\thiag\desktop\imovel\main.cpp
+	<iostream>
+	"IMOVEL.H"
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+	"Endereco.h"
+	"SistemaImobiliaria.h"
+
+1553538126 source:c:\users\thiag\desktop\imovel\sistemaimobiliaria.cpp
+	"SistemaImobiliaria.h"
+	"IMOVEL.H"
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+	"Endereco.h"
+	<iostream>
+	<algorithm>
+	<string>
+
+1553464147 source:c:\users\thiag\desktop\imovel\terreno.cpp
+	"Terreno.h"
+
+1553370922 c:\users\thiag\desktop\imovel\terreno.h
+	"IMOVEL.H"
+
+1553532236 source:c:\users\thiag\desktop\imovel\apartamento.cpp
+	"Apartamento.h"
+
+1553532216 c:\users\thiag\desktop\imovel\apartamento.h
+	"IMOVEL.H"
+
+1553464147 source:c:\users\thiag\desktop\imovel\casa.cpp
+	"Casa.h"
+
+1553528278 c:\users\thiag\desktop\imovel\casa.h
+	"IMOVEL.H"
+
